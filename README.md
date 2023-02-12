@@ -4,8 +4,8 @@ Code for reproduciblity and open science for ICH prediction (expansion, mRS, mor
 ## 1. Setting up the environment :deciduous_tree:
 Create and activate a conda environment with Python
  ```
-conda create -n asbestosis python=3.7.9
-conda activate asbestosis
+conda create -n ich_prediction python=3.9
+conda activate ich_prediction
  ```
 Install the requirements
  ```
