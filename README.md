@@ -1,7 +1,7 @@
 # IntraCerebral Hemorrhage (ICH) Expansion
 Code for reproduciblity and open science for ICH prediction (expansion, mRS, mortality).
 
-## 1. Setting up the environment :deciduous_tree:
+## Install and run
 Create and activate a conda environment with Python
  ```
 conda create -n ich_prediction python=3.9
