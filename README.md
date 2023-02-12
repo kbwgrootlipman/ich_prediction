@@ -1,4 +1,4 @@
-# IntraCerebral Hematoma (ICH)
+# IntraCerebral Hemorrhage (ICH) Expansion
 Code for reproduciblity and open science for ICH prediction (expansion, mRS, mortality).
 
 ## 1. Setting up the environment :deciduous_tree:
