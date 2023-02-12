@@ -15,3 +15,8 @@ conda install pandas
 conda install matplotlib==3.2.2
 conda install scikit-learn=0.24.1
 conda install scipy
+
+ ```
+Run script 
+```
+python3 train_test.py
