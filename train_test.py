@@ -12,7 +12,7 @@ import tensorflow as tf
 from keras.models import load_model
 from keras.callbacks import ModelCheckpoint, EarlyStopping
 from keras.optimizers import Adam
-from data_generathor import DataGenerator
+from datagenerator import DataGenerator
 import pickle
 from tensorflow.compat.v1 import ConfigProto
 from tensorflow.compat.v1 import InteractiveSession
